@@ -57,8 +57,8 @@ Hey, I'm Elkin Palomino 👋
 ## 🚀 What I'm Building
 
 ### 🏦 Banking Management API
-> REST API with **hexagonal architecture** — clean separation between domain, application, and infrastructure layers.  
-> Dual database setup: **MySQL** for relational data · **MongoDB** for document storage.  
+> REST API with **hexagonal architecture** — clean separation between domain, application, and infrastructure layers.
+> Dual database setup: **MySQL** for relational data · **MongoDB** for document storage.
 > Tested with **Postman**.
 
 `Java` `Hexagonal Architecture` `MySQL` `MongoDB` `REST` `Postman`
@@ -66,7 +66,7 @@ Hey, I'm Elkin Palomino 👋
 ---
 
 ### 📋 PPI Project API
-> Institutional REST API built from scratch under **hexagonal architecture**.  
+> Institutional REST API built from scratch under **hexagonal architecture**.
 > Focus on domain-layer isolation and scalable design patterns.
 
 `Java` `Hexagonal Architecture` `REST`
@@ -74,7 +74,7 @@ Hey, I'm Elkin Palomino 👋
 ---
 
 ### 🎯 Habit Tracker API *(in progress)*
-> Personal REST API for tracking and monitoring daily habits.  
+> Personal REST API for tracking and monitoring daily habits.
 > Applying the same clean architecture principles to a real-world use case.
 
 `Java` `Hexagonal Architecture` `REST`
@@ -82,7 +82,7 @@ Hey, I'm Elkin Palomino 👋
 ---
 
 ### 🔗 Data Structures Suite
-> Full implementation of core data structures with an interactive console menu:  
+> Full implementation of core data structures with an interactive console menu:
 > Vectors · Matrices · Record arrays · Singly linked lists · Doubly linked lists
 
 `C` `Java` `Algorithms` `Data Structures`
