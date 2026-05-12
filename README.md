@@ -46,7 +46,7 @@ Hey, I'm Elkin Palomino 👋
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHPMYADMIN](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHPMYADMIN](https://img.shields.io/badge/PHPMYADMIN-47A248?style=for-the-badge&logo=PHPMYADMIN&logoColor=white)
 
 #### 🔧 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
