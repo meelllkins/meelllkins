@@ -34,21 +34,21 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-#### 🔤 Languages
+####  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 🗄️ Databases
+####  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHPMYADMIN](https://img.shields.io/badge/PHPMYADMIN-47A248?style=for-the-badge&logo=PHPMYADMIN&logoColor=white)
 
-#### 🔧 Tools & Environment
+####  Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -57,9 +57,9 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
-### 🏦 Banking Management API
+###  Banking Management API
 > REST API with **hexagonal architecture** — clean separation between domain, application, and infrastructure layers.
 > Dual database setup: **MySQL** for relational data · **MongoDB** for document storage.
 > Tested with **Postman**.
@@ -68,7 +68,7 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-### 📋 PPI Project API
+###  PPI Project API
 > Institutional REST API built from scratch under **hexagonal architecture**.
 > Focus on domain-layer isolation and scalable design patterns.
 
@@ -76,7 +76,7 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-### 🎯 Habit Tracker API *(in progress)*
+###  Habit Tracker API *(in progress)*
 > Personal REST API for tracking and monitoring daily habits.
 > Applying the same clean architecture principles to a real-world use case.
 
@@ -84,7 +84,7 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-### 🔗 Data Structures Suite
+###  Data Structures Suite
 > Full implementation of core data structures with an interactive console menu:
 > Vectors · Matrices · Record arrays · Singly linked lists · Doubly linked lists
 
@@ -92,18 +92,18 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- ⚙️ Clean Architecture & Hexagonal Design
-- 🔌 REST API best practices & API design
-- 🗄️ Relational & non-relational database design (MySQL + MongoDB)
-- 🔗 Data structures & algorithms
-- 🌐 Web development fundamentals
-- 🏗️ Software architecture patterns
+-  Clean Architecture & Hexagonal Design
+-  REST API best practices & API design
+-  Relational & non-relational database design (MySQL + MongoDB)
+-  Data structures & algorithms
+-  Web development fundamentals
+-  Software architecture patterns
 
 ---
 
-## 🎯 Vision
+##  Vision
 
 ```
 > Goal      →  Software Architect · Backend Engineer
@@ -113,7 +113,7 @@ Hey, I'm Elkin Palomino 👋
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 
 
@@ -129,7 +129,7 @@ Hey, I'm Elkin Palomino 👋
 
 
 
-  "Got no limits." 🚀
+  "Got no limits." 
 
 
 
