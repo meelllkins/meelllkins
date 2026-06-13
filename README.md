@@ -4,7 +4,7 @@ Hey, I'm Elkin Palomino 👋
  
 Systems Engineering Student · Medellín, Colombia 🇨🇴
  
-4th semester · Final · Building toward Software Architecture
+4th semester · Building toward Software Architecture
  
 ---
  
@@ -107,7 +107,7 @@ Systems Engineering Student · Medellín, Colombia 🇨🇴
 ## Vision
  
 ```
-> Goal      →  Software Architect · Backend Engineer
+> Goal      →  Backend Developer focused on software architecture principles.
 > Path      →  APIs → System Design → Architecture
 > Mindset   →  "Got no limits."
 ```
