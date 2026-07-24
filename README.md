@@ -2,7 +2,7 @@
  
 Hey, I'm Elkin Palomino 👋
  
-Systems Engineering Student · Medellín, Colombia 🇨🇴
+Técnico Profesional en Sistemas · TdeA | Enfocado en Backend & Software Architecture · Medellín, Colombia 🇨🇴
  
 4th semester · Building toward Software Architecture
  
